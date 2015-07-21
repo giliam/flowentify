@@ -3,9 +3,6 @@
 from itertools import *
 DEBUG = False
 
-"""
-Premier état : 
-"""
 etatsPossibles = ["bourgogne","vin","bordeaux","cheval","hebergement","alsace"]
 PI = [0.2,0.1,0.2,0.1,0.2,0.2]
 A = [
